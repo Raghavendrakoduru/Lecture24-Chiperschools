@@ -1,0 +1,28 @@
+// #include<iostream>
+// using namespace std;
+// int swap(int *a,int *b){
+//   cout<<"The values of are:"<<*a<<" "<<*b<< endl;
+//   int swap1;
+//   swap1 = *a;
+//   *a = *b;
+//   *b=swap1;
+  
+//   return 0;
+// }
+// int main(){
+//   int a=4,b=6;
+//   swap(&a,&b);
+//   cout<<"The swapping is complete:"<<a<<" "<<b<<endl;
+  
+// }
+#include<iostream>
+using namespace std;
+int main(){
+  int n;
+  float list[100],avg;
+  
+}
+ float average(int a,float x[]){
+  
+   sum = sum+x[i];
+ }
